@@ -1,7 +1,7 @@
 REST API Service for Sensor Data Reception
 ====================================================
 
-This project represents a REST API service that receives data from a "sensor". The service is implemented using the Spring REST Framework.
+This project represents a REST API service that receives data from a "sensor". The service is implemented using the Spring Framework.
 
 Project Structure
 -----------------
