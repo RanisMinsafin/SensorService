@@ -50,7 +50,7 @@ Running the Project
 
 REST API Application:
 
-1.  Run mvn spring-boot:run in the root directory of the project.
+*   Run mvn spring-boot:run in the root directory of the project.
 
 Java Client:
 
